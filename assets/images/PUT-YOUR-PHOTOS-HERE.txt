@@ -1,0 +1,32 @@
+Put your photos in this folder using exactly these filenames:
+
+hero-container-yard.jpg
+cta-stacked-containers.jpg
+contact-yard-entrance.jpg
+standard-dry-container.jpg
+10ft-container.jpg
+20ft-container.jpg
+40ft-container.jpg
+40ft-high-cube-container.jpg
+refrigerated-container-reefer.jpg
+open-top-container.jpg
+flat-rack-container.jpg
+side-opening-container.jpg
+double-door-container.jpg
+storage-container.jpg
+modified-container.jpg
+container-office.jpg
+container-workshop.jpg
+specialised-container.jpg
+app-construction-site.jpg
+app-commercial-storage.jpg
+app-industrial-storage.jpg
+app-agricultural-storage.jpg
+app-retail-business.jpg
+app-shipping-logistics.jpg
+app-residential-lifestyle.jpg
+app-offices-workshops.jpg
+app-specialised-commercial.jpg
+about-containers.jpg
+
+Sizes: about 1000x1250, hero and cta 1920x1080, products 1200x900, applications 1280x720, contact 1280x800. Keep each under about 200 KB.
