@@ -1,4 +1,4 @@
-CONTAINER SPACE WEBSITE
+GLOBAL FORTUNE CONTAINERS WEBSITE
 
 Pages: index.html, about.html, containers.html, applications.html, why-choose-us.html, request-a-quote.html, contact.html
 Shared files: assets/style.css, assets/site.js
@@ -10,4 +10,4 @@ Before publishing:
 3. Fill in the [bracketed] contact details in contact.html and the footer of every page.
 4. Upload the whole folder to any free static host (for example GitHub Pages, Cloudflare Pages or Netlify free tier). Keep the folder structure.
 
-Brand files in assets/: logo-on-dark.svg, logo-on-light.svg (full logo), logo-mark.svg / logo-mark.png (symbol only), favicon.svg, favicon.ico, favicon-32.png, apple-touch-icon.png, icon-192.png, icon-512.png.
+Brand files in assets/: logo.png (transparent), logo-original.jpg, favicon.ico, favicon-32.png, apple-touch-icon.png, icon-192.png, icon-512.png.
